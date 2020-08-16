@@ -26,7 +26,6 @@
 - 🛒 I’m currently working on an ecommerce app built with React JS.
 - 🌱 I’m currently learning everything I can. 🤣
 - 🤔 I’m currently looking for Junior Front-end job opportunitites.
-- 📫 How to reach me: 
 - 😄 Pronouns: She/Her (just call me Jess)
 - ⚡ Fun fact: I just lost 10kg in the first half of 2020 thanks to huge loads of HIITs and clean eating. 
 - 🥅 2020 Goals
