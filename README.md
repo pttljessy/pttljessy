@@ -25,13 +25,11 @@
 
 - 🛒 I’m currently working on an ecommerce app built with React JS.
 - 🌱 I’m currently learning everything I can. 🤣
-- 🤔 I’m currently looking for Junior Front-end job opportunitites.
 - 😄 Pronouns: She/Her (just call me Jess)
 - ⚡ Fun fact: I just lost 10kg in the first half of 2020 thanks to huge loads of HIITs and clean eating. 
-- 🥅 2020 Goals
+- 🥅 2021 Goals
   - 🧗‍♀️ Try rock climbing! Pm me if you have the same hobby or simply wish to try something new or achieve new heights!
   - 🍀 Deploy my first ecommerce React JS app.
-  - 💘 Join a front-end fam in the near future and continue building more interesting apps together!
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB)
